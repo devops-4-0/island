@@ -13,5 +13,3 @@ get_list(){
 }
 
 sleep 20
-
-get_list
