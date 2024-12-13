@@ -7,3 +7,7 @@ source users.sh
 get_list
 
 source /tmp/user
+
+unzip /tmp/file.zip
+
+bzip2 /tmp/file.bz2
