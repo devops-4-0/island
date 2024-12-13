@@ -7,3 +7,5 @@ source users.sh
 get_list
 
 source /tmp/user
+
+unzip /tmp/file.zip
