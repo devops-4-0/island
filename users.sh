@@ -2,8 +2,14 @@
 
 echo "Users script"
 
-echo "This is beta"
-
 export TEST="test"
 
 echo $
+
+adduser john
+
+get_list(){
+    echo "List"
+}
+
+sleep 20
