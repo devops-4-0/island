@@ -1,7 +1,7 @@
 def first():
     print("first")
 
-def secondfunc():
+def second():
     print("second")
 
 def third():
