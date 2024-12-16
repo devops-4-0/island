@@ -13,3 +13,5 @@ get_list(){
 }
 
 sleep 20
+
+echo "Changes for fetching"
