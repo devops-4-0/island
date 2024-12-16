@@ -3,3 +3,6 @@ def first():
 
 def second():
     print("second")
+
+def third():
+    print("Third")
