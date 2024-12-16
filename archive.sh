@@ -12,4 +12,4 @@ unzip /tmp/file.zip
 
 bzip2 /tmp/file.bz2
 
-echo "Change from remote repository"
+function_call

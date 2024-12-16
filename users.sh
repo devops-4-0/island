@@ -12,6 +12,4 @@ get_list(){
     echo "List"
 }
 
-sleep 20
-
 echo "Changes for fetching"
